@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+	"name": "Dark Reddit Old",
+	"version": "1.0",
+	
+	"description": "Makes Reddit Old Go Dark",
+	"content_scripts":
+	[
+		{
+			"matches": ["*://*.reddit.com/*"],
+			"js": ["index.js"]			
+		}
+	]
+}

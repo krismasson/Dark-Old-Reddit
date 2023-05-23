@@ -9,6 +9,6 @@ Heres my own.
 
 # Installation:
 
-type about:debugging and click This Firefox
+- type about:debugging and click This Firefox
 
-load as a temporary addon.
+- load as a temporary addon.
